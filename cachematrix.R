@@ -1,5 +1,5 @@
 ## implementation of the "special" matrix, whose inverse we can cache
-## functions do
+## 
 
 ## creates the "special" matrix in a way similar to the one given in the vector example
 
